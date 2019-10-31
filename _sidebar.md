@@ -5,9 +5,10 @@
   
 * **Python语言**
   - [Python基础](./Python/python基础.md)
+  - [Error记录](./Python/pyError.md)
   - [微信小程序](./Python/爬虫.md)
-  - [爬虫](./Python/微信小程序.md)
-
+- [爬虫](./Python/微信小程序.md)
+  
 * **算法**
   - [算法基础](./Algorithm/算法基础.md)
   - [机器学习](./Algorithm/机器学习.md)
